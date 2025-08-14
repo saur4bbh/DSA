@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
