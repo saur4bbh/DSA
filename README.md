@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2350-find-closest-number-to-zero](https://github.com/saur4bbh/DSA/tree/master/2350-find-closest-number-to-zero) |
+| [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
 ## Counting
