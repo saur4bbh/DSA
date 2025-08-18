@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/saur4bbh/DSA/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saur4bbh/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -124,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/saur4bbh/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
