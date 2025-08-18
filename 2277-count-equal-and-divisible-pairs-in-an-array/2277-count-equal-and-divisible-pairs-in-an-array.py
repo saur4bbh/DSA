@@ -1,11 +1,15 @@
 class Solution:
     def countPairs(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        count = 0
+        d = defaultdict(list)
+        pairs = 0
         
-        for i in range(n-1):
-            for j in range(i + 1, n):
-                if nums[i] == nums[j] and (i*j) % k == 0:
-                    count += 1
+        for i, val in enumerate(nums):
+            d[val].append(i)
 
-        return count
+        for indices in d.values():
+            for i in range(len(indices) - 1):
+                for j in range(i + 1, len(indices)):
+                    if (indices[i] * indices[j]) % k == 0:
+                        pairs += 1
+        
+        return pairs
