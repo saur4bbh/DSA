@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saur4bbh/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saur4bbh/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saur4bbh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saur4bbh/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saur4bbh/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saur4bbh/DSA/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
