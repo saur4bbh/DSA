@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saur4bbh/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/saur4bbh/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saur4bbh/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saur4bbh/DSA/tree/master/0048-rotate-image) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saur4bbh/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/saur4bbh/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saur4bbh/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saur4bbh/DSA/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saur4bbh/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
