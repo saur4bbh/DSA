@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/saur4bbh/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/saur4bbh/DSA/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/saur4bbh/DSA/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/saur4bbh/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
