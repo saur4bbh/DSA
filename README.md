@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3582-find-indices-of-stable-mountains](https://github.com/saur4bbh/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/saur4bbh/DSA/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
 | ------- |
