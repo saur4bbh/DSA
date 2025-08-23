@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saur4bbh/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saur4bbh/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur4bbh/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
