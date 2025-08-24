@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saur4bbh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saur4bbh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saur4bbh/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
