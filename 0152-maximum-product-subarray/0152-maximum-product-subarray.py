@@ -1,13 +1,13 @@
 class Solution:
     def maxProduct(self, nums):
-        res = float('-inf')
-        maxi = mini = 1
+        track = float('-inf')
+        pref = suf = 1
+        
+        for i in range(len(nums)):
+            if pref == 0: pref = 1
+            if suf == 0: suf = 1
+            pref *= nums[i]
+            suf *= nums[~i]
+            track = max(track, pref, suf)
 
-        for n in nums:
-            temp = maxi
-            maxi = max(temp * n,mini * n, n)
-            mini = min(temp * n,mini * n, n)
-
-            res = max(maxi, res)
-
-        return res
+        return track
