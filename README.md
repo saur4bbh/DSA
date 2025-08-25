@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/saur4bbh/DSA/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saur4bbh/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
