@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1205-defanging-an-ip-address](https://github.com/saur4bbh/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/saur4bbh/DSA/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
