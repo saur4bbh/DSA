@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/saur4bbh/DSA/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/saur4bbh/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/saur4bbh/DSA/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/saur4bbh/DSA/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
