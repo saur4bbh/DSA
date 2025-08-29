@@ -7,13 +7,13 @@ class Solution:
         def bloom(days):
             ans = 0
             i = 0
-            while i < n:
-                t = 0
-                while i<n and bloomDay[i] - days <= 0:
+            for b in bloomDay:
+                if b <= days:
                     i += 1
-                    t += 1
-                ans += t//k
-                i += 1
+                else:
+                    ans += i // k
+                    i = 0
+            ans += i // k
             return ans
 
         while l <= r:
