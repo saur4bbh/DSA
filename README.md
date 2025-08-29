@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saur4bbh/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1241-decompress-run-length-encoded-list](https://github.com/saur4bbh/DSA/tree/master/1241-decompress-run-length-encoded-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saur4bbh/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
