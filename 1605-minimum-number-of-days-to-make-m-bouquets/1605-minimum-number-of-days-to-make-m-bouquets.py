@@ -2,7 +2,7 @@ class Solution:
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
         n = len(bloomDay)
         if m*k > n: return -1
-        l, r = 1, max(bloomDay)
+        l, r = min(bloomDay), max(bloomDay)
 
         def bloom(days):
             ans = 0
