@@ -10,8 +10,6 @@ class Solution:
 
         l, r = 0, m # no. of ele from smaller array in final array
 
-        left = right = 0 # both mid of final array
-
         while l <= r:
             mid = (l + r) // 2
             mid2 = half - mid
@@ -25,9 +23,11 @@ class Solution:
             if mid2-1 >= 0: l2 = nums2[mid2-1]
 
             if l1 <= r2 and l2 <= r1:
-                left = max(l1, l2)
-                right = min(r1, r2)
-                break
+        
+                if (m + n) % 2 == 0:
+                    return (max(l1,l2) + min(r1,r2)) / 2
+                else:
+                    return max(l1,l2)
 
             elif l2 > r1:
                 l = mid + 1
