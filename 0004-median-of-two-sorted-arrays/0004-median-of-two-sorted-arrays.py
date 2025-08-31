@@ -35,7 +35,3 @@ class Solution:
             else:
                 r = mid - 1
         
-        if (m + n) % 2 == 0:
-            return (left + right) / 2
-        else:
-            return left
