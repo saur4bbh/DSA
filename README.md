@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saur4bbh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
+| [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/saur4bbh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/saur4bbh/DSA/tree/master/2556-convert-the-temperature) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/saur4bbh/DSA/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saur4bbh/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saur4bbh/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saur4bbh/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
