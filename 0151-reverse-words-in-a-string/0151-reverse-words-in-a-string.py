@@ -12,8 +12,8 @@ class Solution:
                 ans.append(s[i+1:idx+1])
                 idx = -1
 
-            if i == 0 and idx != -1:         # dealing with first word if any
-                ans.append(s[i:idx+1])
+        if idx != -1:         # dealing with first word if any
+            ans.append(s[i:idx+1])
 
         return ' '.join(ans)
         
