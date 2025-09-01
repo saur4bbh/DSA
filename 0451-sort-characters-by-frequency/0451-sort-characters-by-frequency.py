@@ -1,25 +1,14 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        a = [[0,i] for i in range(123)]
+        freq = Counter(s)
+        bucket = [[] for _ in range(len(s) + 1)]
+
+        for val,i in freq.items():
+            bucket[i].append(val)
+
         ans = []
-        for i in s:
-            if i.isdigit():
-                a[int(i)][0] += 1
-            else:
-                a[ord(i)][0] += 1
+        for i in range(len(bucket)-1,-1,-1):
+            for val in bucket[i]:
+                ans.append(val*i)
         
-        a.sort(reverse = True)
-
-        j = 0
-        while a[j][0] != 0:
-            if a[j][1] < 10:
-                for i in range(a[j][0]):
-                    ans.append(str(a[j][1]))
-            else: 
-                for i in range(a[j][0]):
-                    ans.append(chr(a[j][1]))
-            j += 1
-
         return ''.join(ans)
-
-
