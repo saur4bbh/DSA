@@ -23,12 +23,8 @@ class Solution:
         #step4
         if ans in {'','+','-'}:
             return 0
-        elif int(ans) < -2**31:
-            return -2**31
-        elif int(ans) > 2**31 - 1:
-            return 2**31 - 1
-        else:
-            return int(ans)
+        ans = max(-2**31, min(int(ans), 2**31 - 1))
+        return ans
 
 
 
