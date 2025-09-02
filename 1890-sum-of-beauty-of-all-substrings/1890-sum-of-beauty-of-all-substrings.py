@@ -8,13 +8,9 @@ class Solution:
 
             for j in range(i,n):
                 d[ord(s[j]) - ord('a')] += 1
-
-                small, big = 1000, 0
-                for i in d:
-                    if i > 0:
-                        small = min(small, i)
-                        big = max(big, i)
-
+                small = min(i for i in d if i>0)
+                big = max(d)
+                
                 count += big - small
 
         return count
