@@ -12,8 +12,6 @@ class Solution:
         if i<n and s[i] in {'+','-'}:
             ans += s[i]
             i += 1
-        elif i<n and not s[i].isdigit():
-            return 0
 
         #step3
         while i<n and s[i].isdigit():
