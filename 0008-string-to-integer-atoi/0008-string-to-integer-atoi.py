@@ -1,25 +1,37 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        left = False
-        exempt = {' ','-','+'}
+        n = len(s)
         ans = ''
-        for i in s:
-            if i.isdigit() == False and (left or i not in exempt):
-                break
-            elif i == '-' or i == '+' or i.isdigit():
-                left = True
-                ans += i
+        i = 0
 
-        if ans == '' or ans == '-' or ans == '+':
-            ans = 0
-        elif int(ans) < -2**31:
-            ans = -2**31
-        elif int(ans) > 2**31 - 1:
-            ans = 2**31 - 1
-        else:
-            ans = int(ans)
+        #step1
+        while i<n and s[i] == ' ':
+            i += 1
         
-        return ans
+        #step2
+        if i<n and s[i] in {'+','-'}:
+            ans += s[i]
+            i += 1
+        elif i<n and not s[i].isdigit():
+            return 0
+
+        #step3
+        while i<n and s[i].isdigit():
+            ans += s[i]
+            i += 1
+
+        #step4
+        if ans in {'','+','-'}:
+            return 0
+        elif int(ans) < -2**31:
+            return -2**31
+        elif int(ans) > 2**31 - 1:
+            return 2**31 - 1
+        else:
+            return int(ans)
+
+
+
 
                 
 
