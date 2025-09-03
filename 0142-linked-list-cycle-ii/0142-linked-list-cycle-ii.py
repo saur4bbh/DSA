@@ -6,9 +6,17 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        d = set()
         i = head
-        while i not in d and i:
-            d.add(i)
+        j = head
+        while j and j.next:
             i = i.next
-        return i
+            j = j.next.next
+            if i == j:
+                i = head
+                while i!=j:
+                    i = i.next
+                    j = j.next
+                return i
+        return None
+
+        
