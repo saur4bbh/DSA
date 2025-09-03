@@ -5,11 +5,6 @@ class ListNode:
 
 class Solution:
     def deleteNode(self, node):
-        i = node
-        while i.next:
-            i.val = i.next.val
-            if i.next.next is None:
-                i.next = None
-                break
-            i = i.next
+        node.val = node.next.val
+        node.next = node.next.next
         
