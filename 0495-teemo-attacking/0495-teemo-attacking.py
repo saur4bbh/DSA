@@ -3,9 +3,6 @@ class Solution:
         ans = d
 
         for i in range(1,len(time)):
-            if time[i] - time[i-1] < d:
-                ans += time[i] - time[i-1]
-            else:
-                ans += d
+            ans += min(time[i] - time[i-1], d)
         
         return ans
