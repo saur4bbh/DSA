@@ -9,23 +9,10 @@ class Solution:
         a = headA
         b = headB
 
-        while a.next and b.next:
-            a = a.next
-            b = b.next
-
-        i = headA if a.next else headB
-        j = headA if i == headB else headB
-
-        while a.next:
-            a = a.next
-            i = i.next
-        while b.next:
-            b = b.next
-            i = i.next
+        while a != b:
+            a = a.next if a else headB
+            b = b.next if b else headA
         
-        while i and j:
-            if i == j:
-                return i
-            i = i.next
-            j = j.next
+        return a
+
         
