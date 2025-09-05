@@ -4,8 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def merge(l1,l2):
+    def merge(self,l1,l2):
             dum = ListNode(0)
             tail = dum
 
@@ -21,22 +20,21 @@ class Solution:
             tail.next = l1 or l2
             return dum.next
 
-        def divide(low):
-            if not low or not low.next:
-                return low
-            mid = low
-            h = low.next
-            while h and h.next:
-                mid = mid.next
-                h = h.next.next
+    def sortList(self, low: Optional[ListNode]) -> Optional[ListNode]:
 
-            mid2 = mid.next
-            mid.next = None
+        if not low or not low.next:
+            return low
+        mid = low
+        h = low.next
+        while h and h.next:
+            mid = mid.next
+            h = h.next.next
 
-            x = divide(low)
-            y = divide(mid2)
-            return merge(x,y)
+        mid2 = mid.next
+        mid.next = None
 
-        return divide(head)
+        x = self.sortList(low)
+        y = self.sortList(mid2)
+        return self.merge(x,y)
 
             
