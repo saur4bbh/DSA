@@ -5,16 +5,38 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        ans = []
-        i = head
-        while i:
-            ans.append(i.val)
-            i = i.next
+        def merge(l1,l2):
+            dum = ListNode(0)
+            tail = dum
 
-        ans.sort(reverse = True)
-        i = head
-        while i:
-            i.val = ans.pop()
-            i = i.next
+            while l1 and l2:
+                if l1.val <= l2.val:
+                    tail.next = l1
+                    l1 = l1.next
+                else:
+                    tail.next = l2
+                    l2 = l2.next
+                tail = tail.next
 
-        return head
+            tail.next = l1 or l2
+            return dum.next
+
+        def divide(low):
+            if not low or not low.next:
+                return low
+            mid = low
+            h = low.next
+            while h and h.next:
+                mid = mid.next
+                h = h.next.next
+
+            mid2 = mid.next
+            mid.next = None
+
+            x = divide(low)
+            y = divide(mid2)
+            return merge(x,y)
+
+        return divide(head)
+
+            
