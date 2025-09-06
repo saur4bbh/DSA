@@ -1,12 +1,18 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        nums = []
+        nums = 0
         while num != 0:
-            nums.append(str(num%10))
+            nums = nums*10 + num%10
             num //= 10
-        nums.reverse()
-        for i,val in enumerate(nums):
-            if val == '6':
-                nums[i] = '9'
-                break
-        return int(''.join(nums))
+        
+        ans = 0 
+        rep = False
+        while nums != 0:
+            digit = nums%10
+            if not rep and digit == 6:
+                rep = True
+                digit = 9
+            ans = ans*10 + digit
+            nums //= 10
+
+        return ans
