@@ -5,8 +5,8 @@ class Solution:
             ans[i] *= ans[i-1] * nums[i-1]
         
         temp = 1
-        for i in range(len(nums)-2,-1,-1):
-            temp *= nums[i+1]
+        for i in range(len(nums)-1,-1,-1):
             ans[i] *= temp
+            temp *= nums[i]
 
         return ans
