@@ -29,9 +29,9 @@ class Solution:
         while i:
             cnt += 1
             if cnt == k:
-                right = i.next
-                ini = rev(ini,right)
-                i = right
+                end = i.next
+                ini = rev(ini,end)
+                i = end
                 cnt = 0
             else:
                 i = i.next
