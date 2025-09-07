@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/saur4bbh/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saur4bbh/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/saur4bbh/DSA/tree/master/2714-left-and-right-sum-differences) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saur4bbh/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
