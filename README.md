@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/saur4bbh/DSA/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
