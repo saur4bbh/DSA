@@ -17,7 +17,7 @@ class Solution:
 
         k = k % total
         val = total - k
-        if k == 0 or val == 0:
+        if k == 0:
             return head
         i = head
         for _ in range(val-1):
