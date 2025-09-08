@@ -6,8 +6,7 @@ class Solution:
                 return 1
             if n%2 == 0:
                 return pow((x*x)%mod, n//2, mod)
-            else:
-                return (x * pow(x, n-1, mod))%mod
+            return (x * pow(x, n-1, mod))%mod
         
         mod = 10**9 + 7
 
