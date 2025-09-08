@@ -11,11 +11,6 @@ class Solution:
         
         mod = 10**9 + 7
 
-        if n % 2 == 0:
-            prime = pow(4,n//2,mod)
-            even = pow(5,n//2,mod)
-            return (prime * even) % mod
-        else:
-            prime = pow(4,n//2,mod)
-            even = pow(5,(n+1)//2,mod)
-            return (prime * even) % mod
+        prime = pow(4,n//2,mod)
+        even = pow(5,(n+1)//2,mod)
+        return (prime * even) % mod
