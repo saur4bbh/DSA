@@ -20,7 +20,7 @@ class Solution:
             mapp[j] = i
             j = j.next
 
-        mapp[j] = i.next
+        mapp[None] = None
         
         i = dummy.next
         j = head
