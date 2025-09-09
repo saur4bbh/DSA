@@ -1,10 +1,7 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
-        ans = []
-        temp = []
-
-        def dfs(idx=0):
+        
+        def dfs(idx=0, temp = [], ans = [], n = len(nums)):
             if idx == n:
                 ans.append(temp[:])
                 return
