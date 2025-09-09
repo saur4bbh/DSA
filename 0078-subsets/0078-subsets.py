@@ -4,7 +4,7 @@ class Solution:
         ans = []
         temp = []
 
-        def dfs(idx):
+        def dfs(idx=0):
             if idx == n:
                 ans.append(temp[:])
                 return
@@ -14,6 +14,7 @@ class Solution:
             temp.append(nums[idx])
             dfs(idx + 1)
             temp.pop()
+
+            return ans
         
-        dfs(0)
-        return ans
+        return dfs()
