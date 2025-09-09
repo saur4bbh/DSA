@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saur4bbh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/saur4bbh/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saur4bbh/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/saur4bbh/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saur4bbh/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/saur4bbh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saur4bbh/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saur4bbh/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/saur4bbh/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/saur4bbh/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/saur4bbh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saur4bbh/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saur4bbh/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saur4bbh/DSA/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/saur4bbh/DSA/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saur4bbh/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
