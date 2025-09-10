@@ -6,7 +6,7 @@ class Solution:
         temp = []
 
         def dfs(start=0, summ = 0):
-            if start == n or summ >=target:
+            if summ >=target:
                 if summ == target:
                     ans.append(temp[:])
                 return 
