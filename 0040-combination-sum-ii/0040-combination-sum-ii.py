@@ -5,20 +5,18 @@ class Solution:
         ans = []
         temp = []
 
-        def dfs(i=0, summ = 0):
-            if i == n or summ >=target:
+        def dfs(start=0, summ = 0):
+            if start == n or summ >=target:
                 if summ == target:
                     ans.append(temp[:])
                 return 
             
-            temp.append(candidates[i])
-            dfs(i+1, summ + candidates[i])
-            temp.pop()
-
-            while i < n-1 and candidates[i] == candidates[i+1]:
-                i += 1
-            dfs(i+1, summ)
-        
+            for i in range(start, n):
+                if i > start and candidates[i] == candidates[i-1]:
+                    continue
+                temp.append(candidates[i])
+                dfs(i+1, summ + candidates[i])
+                temp.pop()      
 
         dfs()
         return ans
