@@ -14,6 +14,8 @@ class Solution:
             for i in range(start, n):
                 if i > start and candidates[i] == candidates[i-1]:
                     continue
+                if candidates[i] > target:   #optimisation since sorted
+                    break
                 temp.append(candidates[i])
                 dfs(i+1, summ + candidates[i])
                 temp.pop()      
