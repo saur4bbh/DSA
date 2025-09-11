@@ -13,22 +13,19 @@ class Solution:
         n = len(digits)
         ans = []
         
-        def backtrack(i, temp):
+        def backtrack(idx, temp):
             if len(temp) == n:
                 ans.append(temp)
                 return
             
-            val = mapp[digits[i]]
+            word = mapp[digits[idx]]
 
-            for letter in val:
-                backtrack(i + 1,temp + letter)
-        
+            for w in word:
+                backtrack(idx + 1, temp + w)
+
         backtrack(0, '')
         if digits == '':
             return []
         return ans
-        
-
-
 
             
