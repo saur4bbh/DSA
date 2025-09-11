@@ -10,11 +10,10 @@ class Solution:
                     ans.append(temp[:])
                 return
 
-            temp.append(arr[i])
-            dfs(summ + arr[i], i)
-            temp.pop()
-
-            dfs(summ, i + 1)
+            for j in range(i, n):
+                temp.append(arr[j])
+                dfs(summ + arr[j], j)
+                temp.pop()
 
             return ans
 
