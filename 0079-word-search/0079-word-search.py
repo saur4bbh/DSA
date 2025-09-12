@@ -13,10 +13,9 @@ class Solution:
                 return False
 
             visited.add((r,c))
-            res = dfs(r+1, c, idx+1) or dfs(r-1, c, idx+1) or dfs(r, c+1, idx+1) or dfs(r, c-1, idx+1)
+            if dfs(r+1, c, idx+1) or dfs(r-1, c, idx+1) or dfs(r, c+1, idx+1) or dfs(r, c-1, idx+1):
+                return True
             visited.remove((r,c))
-
-            return res
             
 
         for i in range(row):
