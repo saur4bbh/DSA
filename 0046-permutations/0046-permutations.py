@@ -2,25 +2,17 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
         ans = []
-        part = []
 
-        def backtrack():
-            if len(part) == n:
-                ans.append(part[:])
+        def backtrack(start = 0):
+            if start == n:
+                ans.append(nums[:])
                 return 
             
 
-            for i in range(n):
-                if nums[i] != None:
-
-                    temp = nums[i]
-                    part.append(temp)
-                    nums[i] = None
-
-                    backtrack()
-                    
-                    nums[i] = temp
-                    part.pop()
+            for i in range(start, n):
+                nums[start],nums[i] = nums[i], nums[start]
+                backtrack(start + 1)
+                nums[start],nums[i] = nums[i], nums[start]
 
         backtrack()
         return ans
