@@ -3,46 +3,24 @@ class Solution:
         row = len(board)
         col = len(board[0])
 
+        visited = set()
+
         def dfs(r, c, idx):
             if idx == len(word):
                 return True
             
-            #right
-            if c < col-1 and board[r][c + 1] == word[idx]: 
-                temp = board[r][c]
-                board[r][c] = None
-                if dfs(r, c + 1, idx + 1):
-                    return True
-                board[r][c] = temp
+            if not (0 <= c < col) or not (0 <= r < row) or (r,c) in visited or board[r][c] != word[idx]:
+                return False
 
-            #left
-            if c > 0 and board[r][c - 1] == word[idx]:
-                temp = board[r][c]
-                board[r][c] = None
-                if dfs(r, c - 1, idx + 1):
-                    return True
-                board[r][c] = temp
+            visited.add((r,c))
+            res = dfs(r+1, c, idx+1) or dfs(r-1, c, idx+1) or dfs(r, c+1, idx+1) or dfs(r, c-1, idx+1)
+            visited.remove((r,c))
 
-            #down
-            if r < row-1 and board[r + 1][c] == word[idx]:
-                temp = board[r][c]
-                board[r][c] = None
-                if dfs(r + 1, c, idx + 1):
-                    return True
-                board[r][c] = temp
-
-            #up
-            if r > 0 and board[r - 1][c] == word[idx]:
-                temp = board[r][c]
-                board[r][c] = None
-                if dfs(r - 1, c, idx + 1):
-                    return True
-                board[r][c] = temp
-
+            return res
+            
 
         for i in range(row):
             for j in range(col):
-                if board[i][j] == word[0]:
-                    if dfs(i, j, 1):
-                        return True
+                if dfs(i, j, 0):
+                    return True
         return False
