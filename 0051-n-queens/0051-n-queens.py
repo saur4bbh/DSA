@@ -4,15 +4,9 @@ class Solution:
         ans = []
         board = [['.'] * n for _ in range(n)]
         
-        def check(r,c):
-            for i in range(c):
-                if board[r][i] == 'Q':
-                    return False
-                if r - (c - i) >= 0 and board[r - (c - i)][i] == 'Q':
-                    return False
-                if r + (c - i) < n and board[r + (c - i)][i] == 'Q':
-                    return False
-            return True
+        t_row = [False] * n
+        t_1diag = [False] * (n+n-1)
+        t_2diag = [False] * (n+n-1)
         
         def dfs(col):
             if col == n:
@@ -20,12 +14,15 @@ class Solution:
                 return
             
             for row in range(n):
-                
-                if check(row, col):
+                if not t_row[row] and not t_1diag[row+col] and not t_2diag[n-1 + row-col]:
+                    t_row[row] = t_1diag[row+col] = t_2diag[n-1 + row-col] = True
+
                     board[row][col] = 'Q'
                     dfs(col+1)
                     board[row][col] = '.'
-        
+
+                    t_row[row] = t_1diag[row+col] = t_2diag[n-1 + row-col] = False
+
         dfs(0)
         return ans
                     
