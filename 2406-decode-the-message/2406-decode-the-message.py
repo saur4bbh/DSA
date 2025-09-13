@@ -6,8 +6,5 @@ class Solution:
             if i != ' ' and i not in seen:
                 seen[i] = chr(a + 97)
                 a += 1
-        ans = []
-        for i in message:
-            ans.append(seen[i])
         
-        return ''.join(ans)
+        return ''.join(seen[i] for i in message)
