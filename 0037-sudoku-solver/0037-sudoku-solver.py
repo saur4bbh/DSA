@@ -24,7 +24,6 @@ class Solution:
             return True
         
         def backtrack(n):
-            
             if n == 81:
                 return True
 
@@ -50,8 +49,6 @@ class Solution:
                     row[r].remove(curr)
                     col[c].remove(curr)
                     box[r // 3][c // 3].remove(curr)
-            
-            return False
 
         backtrack(0)
         return
