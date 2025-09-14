@@ -12,9 +12,10 @@ class Solution:
             if st in memo:
                 return memo[st]
 
-            for i in range(n):
+            for i in range(st, n):
                 subs = s[st : i+1]
                 if subs in keep and dfs(i+1):
+                    memo[st] = True
                     return True
             
             memo[st] = False
