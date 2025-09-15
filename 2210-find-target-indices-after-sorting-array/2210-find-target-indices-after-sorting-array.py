@@ -21,10 +21,6 @@ class Solution:
                 l = mid + 1
         
         start = l
-
-        ans = []
-        for i in range(start, end+1):
-            ans.append(i)
         
-        return ans
+        return list(range (start, end+1))
 
