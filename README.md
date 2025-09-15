@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saur4bbh/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saur4bbh/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saur4bbh/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/saur4bbh/DSA/tree/master/1448-maximum-69-number) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saur4bbh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saur4bbh/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/saur4bbh/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saur4bbh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/saur4bbh/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
