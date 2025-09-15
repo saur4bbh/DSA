@@ -1,14 +1,12 @@
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
-        broken = set()
-        for i in brokenLetters:
-            broken.add(i)
+        broken = set(brokenLetters)
         
         ans = 1
 
         word = True
         for letter in text:
-            if word and letter in broken:
+            if letter in broken and word:
                 ans -= 1
                 word = False
             if letter == ' ':
