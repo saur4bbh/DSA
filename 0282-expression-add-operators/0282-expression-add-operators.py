@@ -3,30 +3,25 @@ class Solution:
         n = len(num)
         ans = []
 
-        def backtrack(idx: int, total: int, temp: str, prev: int):
+        def solve(idx, total, temp, lastnum):
             if idx == n:
                 if total == target:
                     ans.append(temp)
                 return
 
-            for j in range(idx, n):
-                # Skip numbers with leading zeros
-                if j > idx and num[idx] == '0':
+            for i in range(idx, n):
+                if i > idx and num[idx] == '0':
                     break
 
-                last_num_str = num[idx:j+1]
-                last_num = int(last_num_str)
+                currnum_str = num[idx : i+1]
+                currnum = int(currnum_str)
 
                 if idx == 0:
-                    # First number, no operator
-                    backtrack(j+1, last_num, last_num_str, last_num)
+                    solve(i + 1, currnum, currnum_str, currnum)
                 else:
-                    # Addition
-                    backtrack(j+1, total + last_num, temp + '+' + last_num_str, last_num)
-                    # Subtraction
-                    backtrack(j+1, total - last_num, temp + '-' + last_num_str, -last_num)
-                    # Multiplication
-                    backtrack(j+1, total - prev + (prev * last_num), temp + '*' + last_num_str, prev * last_num)
-
-        backtrack(0, 0, '', 0)
+                    solve(i + 1, total + currnum, temp + '+' + currnum_str, currnum)
+                    solve(i + 1, total - currnum, temp + '-' + currnum_str, -currnum)
+                    solve(i + 1, total + (lastnum * currnum) - lastnum, temp + '*' + currnum_str, lastnum * currnum)
+            
+        solve(0, 0, '', 0)
         return ans
