@@ -1,30 +1,13 @@
-from typing import List
-from functools import lru_cache
-
 class Solution:
     def addOperators(self, num: str, target: int) -> List[str]:
         n = len(num)
         ans = []
 
-        # Using a manual memo dictionary instead of lru_cache for clarity
-        memo = {}
-
         def backtrack(idx: int, total: int, temp: str, prev: int):
-            # Use a key that includes prev, total, and idx
-            key = (idx, total, prev)
-            if key in memo:
-                # Extend the current answer with cached expressions
-                for expr in memo[key]:
-                    ans.append(temp + expr)
-                return
-
             if idx == n:
                 if total == target:
                     ans.append(temp)
                 return
-
-            # Keep track of newly generated expressions for this state
-            new_exprs = []
 
             for j in range(idx, n):
                 # Skip numbers with leading zeros
