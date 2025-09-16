@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saur4bbh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/saur4bbh/DSA/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/saur4bbh/DSA/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/saur4bbh/DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saur4bbh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/saur4bbh/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/saur4bbh/DSA/tree/master/0782-jewels-and-stones) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/saur4bbh/DSA/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/saur4bbh/DSA/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/saur4bbh/DSA/tree/master/0782-jewels-and-stones) |
