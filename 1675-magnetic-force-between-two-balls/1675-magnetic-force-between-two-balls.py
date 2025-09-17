@@ -4,12 +4,11 @@ class Solution:
         def check(force):  
         # min of max means > than force in def is allowed but not lesser than this
             containers = 1
-            temp = 0
+            temp = position[0]
             for i in range(1, len(position)):
-                temp += position[i] - position[i-1]
-                if temp > force:
+                if position[i] - temp >= force:
                     containers += 1
-                    temp = 0
+                    temp = position[i]
                 if containers >= m:
                     return True
             return False
@@ -22,4 +21,4 @@ class Solution:
             else:
                 r = mid - 1 
         
-        return l
+        return r
