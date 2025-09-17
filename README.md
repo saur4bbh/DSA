@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/saur4bbh/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
+| [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/saur4bbh/DSA/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/saur4bbh/DSA/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saur4bbh/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saur4bbh/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/saur4bbh/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saur4bbh/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
