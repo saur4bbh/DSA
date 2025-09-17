@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saur4bbh/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/saur4bbh/DSA/tree/master/2350-find-closest-number-to-zero) |
+| [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saur4bbh/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/saur4bbh/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saur4bbh/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/saur4bbh/DSA/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/saur4bbh/DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/saur4bbh/DSA/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/saur4bbh/DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saur4bbh/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/saur4bbh/DSA/tree/master/3194-find-words-containing-character) |
