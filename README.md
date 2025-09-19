@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/saur4bbh/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saur4bbh/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
+| [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saur4bbh/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
+| [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/saur4bbh/DSA/tree/master/1217-relative-sort-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/saur4bbh/DSA/tree/master/0782-jewels-and-stones) |
+| [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saur4bbh/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/saur4bbh/DSA/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saur4bbh/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/saur4bbh/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saur4bbh/DSA/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saur4bbh/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saur4bbh/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saur4bbh/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
