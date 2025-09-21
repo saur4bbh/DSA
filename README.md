@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saur4bbh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saur4bbh/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saur4bbh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Trie
 |  |
