@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saur4bbh/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saur4bbh/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saur4bbh/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/saur4bbh/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saur4bbh/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saur4bbh/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/saur4bbh/DSA/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3379-score-of-a-string) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/saur4bbh/DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saur4bbh/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
