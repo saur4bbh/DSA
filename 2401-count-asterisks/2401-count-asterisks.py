@@ -5,8 +5,6 @@ class Solution:
         for i in s:
             if not switch and i == '*':
                 cnt += 1
-            elif switch and i == '|':
-                switch = False
-            elif not switch and i == '|':
-                switch = True
+            elif i == '|':
+                switch = not switch
         return cnt
