@@ -6,3 +6,6 @@ class Solution:
                 if i % (j * k) == 0:
                     ans += 1
         return ans
+
+
+        # use divisor approach
