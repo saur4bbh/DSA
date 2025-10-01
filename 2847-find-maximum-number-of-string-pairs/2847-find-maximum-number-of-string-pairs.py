@@ -5,6 +5,7 @@ class Solution:
         for word in words:
             if word[::-1] in track:
                 cnt += 1
-            track.add(word)
+            else:
+                track.add(word)
         return cnt
         
