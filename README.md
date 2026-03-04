@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saur4bbh/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/saur4bbh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3636-check-balanced-string](https://github.com/saur4bbh/DSA/tree/master/3636-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/saur4bbh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
