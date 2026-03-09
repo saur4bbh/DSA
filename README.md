@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/saur4bbh/DSA/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saur4bbh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saur4bbh/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saur4bbh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saur4bbh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/saur4bbh/DSA/tree/master/1797-goal-parser-interpretation) |
