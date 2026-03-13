@@ -2,15 +2,12 @@ class Solution:
     def minElement(self, nums: List[int]) -> int:
         ans = 10**5
 
-        for i in range(len(nums)):
+        for num in nums:
             temp = 0
-            val = nums[i]
 
-            while val > 0:
-                temp += val%10
-                val //= 10
-
-            nums[i] = temp
+            while num > 0:
+                temp += num%10
+                num //= 10
             ans = min(ans, temp)
         
         return ans
