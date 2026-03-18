@@ -5,9 +5,13 @@ class Solution:
         flowers = 0
 
         for i in range(length):
-            if switch and (i == 0 or flowerbed[i-1] == 0) and flowerbed[i] == 0 and (i == (length - 1) or flowerbed[i+1] == 0):
+            left = i == 0 or flowerbed[i-1] == 0
+            right = i == length - 1 or flowerbed[i+1] == 0
+
+            if switch and left and right and flowerbed[i] == 0:
                 flowers += 1
                 switch = False
+
             elif not switch:
                 switch = True
 
