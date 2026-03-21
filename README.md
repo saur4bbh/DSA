@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/saur4bbh/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/saur4bbh/DSA/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saur4bbh/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/saur4bbh/DSA/tree/master/1448-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saur4bbh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saur4bbh/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saur4bbh/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/saur4bbh/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saur4bbh/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saur4bbh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saur4bbh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/saur4bbh/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/saur4bbh/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/saur4bbh/DSA/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Indexed Tree
@@ -643,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/saur4bbh/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
