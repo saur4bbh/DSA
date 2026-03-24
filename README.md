@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/saur4bbh/DSA/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/saur4bbh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saur4bbh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/saur4bbh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/saur4bbh/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/saur4bbh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saur4bbh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/saur4bbh/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/saur4bbh/DSA/tree/master/2714-left-and-right-sum-differences) |
