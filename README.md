@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/saur4bbh/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/saur4bbh/DSA/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/saur4bbh/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saur4bbh/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/saur4bbh/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/0941-sort-array-by-parity) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/saur4bbh/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/saur4bbh/DSA/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saur4bbh/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/saur4bbh/DSA/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/saur4bbh/DSA/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/saur4bbh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/saur4bbh/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saur4bbh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saur4bbh/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saur4bbh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Trie
