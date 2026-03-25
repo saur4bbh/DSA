@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saur4bbh/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-number-of-changing-keys](https://github.com/saur4bbh/DSA/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/saur4bbh/DSA/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
