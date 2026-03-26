@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/saur4bbh/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saur4bbh/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saur4bbh/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saur4bbh/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saur4bbh/DSA/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/saur4bbh/DSA/tree/master/0509-fibonacci-number) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saur4bbh/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/saur4bbh/DSA/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/saur4bbh/DSA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/saur4bbh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saur4bbh/DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/saur4bbh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/saur4bbh/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
