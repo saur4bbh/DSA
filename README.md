@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/saur4bbh/DSA/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saur4bbh/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/saur4bbh/DSA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2032-two-out-of-three](https://github.com/saur4bbh/DSA/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saur4bbh/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2032-two-out-of-three](https://github.com/saur4bbh/DSA/tree/master/2032-two-out-of-three) |
 | [2226-rings-and-rods](https://github.com/saur4bbh/DSA/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/saur4bbh/DSA/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saur4bbh/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/saur4bbh/DSA/tree/master/2032-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saur4bbh/DSA/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Divide and Conquer
