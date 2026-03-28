@@ -1,15 +1,12 @@
 class Solution:
     def stringSequence(self, target: str) -> List[str]:
-        ele = []
         ans = []
+        ele = ''
 
         for alpha in target:
-            loop = ord(alpha) - ord('a')
-            ele.append('')
+            for code in range(ord('a'), ord(alpha) + 1):
+                ans.append(ele + chr(code))
 
-            for j in range(loop + 1):
-                num = ord('a') + j
-                ele[-1] = chr(num)
-                ans.append( ''.join(ele) )
+            ele += alpha
 
         return ans
