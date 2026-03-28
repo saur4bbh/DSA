@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saur4bbh/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/saur4bbh/DSA/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/saur4bbh/DSA/tree/master/3194-find-words-containing-character) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saur4bbh/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3379-score-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saur4bbh/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3636-check-balanced-string](https://github.com/saur4bbh/DSA/tree/master/3636-check-balanced-string) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saur4bbh/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saur4bbh/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3701-compute-alternating-sum](https://github.com/saur4bbh/DSA/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
