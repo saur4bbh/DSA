@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/saur4bbh/DSA/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/saur4bbh/DSA/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saur4bbh/DSA/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3467-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saur4bbh/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saur4bbh/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saur4bbh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/saur4bbh/DSA/tree/master/2836-neither-minimum-nor-maximum) |
+| [3467-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/saur4bbh/DSA/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3467-transform-array-by-parity) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
