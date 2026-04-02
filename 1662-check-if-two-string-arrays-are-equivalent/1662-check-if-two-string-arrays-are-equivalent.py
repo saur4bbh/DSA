@@ -1,24 +1,22 @@
 class Solution:
     def arrayStringsAreEqual(self, word1: List[str], word2: List[str]) -> bool:
-        i2 = idx2 = 0
+        i = j = 0
+        w1 = w2 = 0
 
-        for w1 in word1:
-            for a1 in w1:
-                if i2 >= len(word2[idx2]):
-                    idx2 += 1
-                    i2 = 0
-                if idx2 < len(word2):
-                    if a1 != word2[idx2][i2]:
-                        return False
-                    i2 += 1
-                else:
-                    return False
-        
-        if idx2 == len(word2) - 1 and i2 == len(word2[idx2]):
-            return True
-        else:
-            return False
+        while w1 < len(word1) and w2 < len(word2):
+            if word1[w1][i] != word2[w2][j]:
+                return False
 
-                
+            i += 1
+            j += 1
+
+            if i == len(word1[w1]):
+                w1 += 1
+                i = 0
+            if j == len(word2[w2]):
+                w2 += 1
+                j = 0
+
+        return w1 == len(word1) and w2 == len(word2)
             
                 
