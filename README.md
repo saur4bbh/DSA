@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/saur4bbh/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/saur4bbh/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saur4bbh/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/saur4bbh/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/saur4bbh/DSA/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saur4bbh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
