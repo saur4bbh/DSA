@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/saur4bbh/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/saur4bbh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/saur4bbh/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1748-sum-of-unique-elements](https://github.com/saur4bbh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saur4bbh/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/saur4bbh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/saur4bbh/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/saur4bbh/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saur4bbh/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/saur4bbh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saur4bbh/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saur4bbh/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saur4bbh/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
