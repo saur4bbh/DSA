@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/saur4bbh/DSA/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saur4bbh/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/saur4bbh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/saur4bbh/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saur4bbh/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saur4bbh/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
