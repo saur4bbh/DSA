@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saur4bbh/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/saur4bbh/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/saur4bbh/DSA/tree/master/2050-count-good-numbers) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/saur4bbh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saur4bbh/DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/saur4bbh/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/saur4bbh/DSA/tree/master/2491-smallest-even-multiple) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/saur4bbh/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/saur4bbh/DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saur4bbh/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/saur4bbh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saur4bbh/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/saur4bbh/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/saur4bbh/DSA/tree/master/2974-minimum-number-game) |
