@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/saur4bbh/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/saur4bbh/DSA/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saur4bbh/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/saur4bbh/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2714-left-and-right-sum-differences](https://github.com/saur4bbh/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/saur4bbh/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/saur4bbh/DSA/tree/master/2727-number-of-senior-citizens) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/saur4bbh/DSA/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/saur4bbh/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/saur4bbh/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/saur4bbh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
