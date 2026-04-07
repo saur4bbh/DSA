@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/saur4bbh/DSA/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/saur4bbh/DSA/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur4bbh/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saur4bbh/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/saur4bbh/DSA/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/saur4bbh/DSA/tree/master/3778-transform-array-by-parity) |
+| [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/saur4bbh/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/saur4bbh/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saur4bbh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/saur4bbh/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3701-compute-alternating-sum](https://github.com/saur4bbh/DSA/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Union Find
 |  |
 | ------- |
