@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saur4bbh/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saur4bbh/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saur4bbh/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/saur4bbh/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/saur4bbh/DSA/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/saur4bbh/DSA/tree/master/1241-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/saur4bbh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saur4bbh/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saur4bbh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/saur4bbh/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/saur4bbh/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/saur4bbh/DSA/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/saur4bbh/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/saur4bbh/DSA/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/saur4bbh/DSA/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saur4bbh/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/saur4bbh/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/saur4bbh/DSA/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saur4bbh/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saur4bbh/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/saur4bbh/DSA/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/saur4bbh/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/saur4bbh/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/saur4bbh/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/saur4bbh/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saur4bbh/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/saur4bbh/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
