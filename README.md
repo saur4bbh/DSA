@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saur4bbh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saur4bbh/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/saur4bbh/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/saur4bbh/DSA/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/saur4bbh/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/saur4bbh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/saur4bbh/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saur4bbh/DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/saur4bbh/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/saur4bbh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saur4bbh/DSA/tree/master/0509-fibonacci-number) |
 ## String
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saur4bbh/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/saur4bbh/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/saur4bbh/DSA/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/saur4bbh/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/saur4bbh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/saur4bbh/DSA/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/saur4bbh/DSA/tree/master/0680-valid-palindrome-ii) |
