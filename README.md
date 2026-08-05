@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saur4bbh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saur4bbh/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/saur4bbh/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/saur4bbh/DSA/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur4bbh/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/saur4bbh/DSA/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/saur4bbh/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
