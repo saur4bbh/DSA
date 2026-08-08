@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/saur4bbh/DSA/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur4bbh/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3925-concatenate-array-with-reverse](https://github.com/saur4bbh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/saur4bbh/DSA/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/saur4bbh/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/saur4bbh/DSA/tree/master/3842-toggle-light-bulbs) |
+| [3925-concatenate-array-with-reverse](https://github.com/saur4bbh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Union Find
 |  |
 | ------- |
