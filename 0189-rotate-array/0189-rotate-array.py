@@ -1,15 +1,15 @@
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
-        n = len(nums)
-        k = k % n
+        
+        def rev(l, r):
+            while l < r:
+                nums[l], nums[r] = nums[r], nums[l]
+                l += 1
+                r -= 1
 
-        def rev(i, j):
-            while i < j:
-                nums[i], nums[j] = nums[j], nums[i]
-                i += 1
-                j -= 1
-            return
-
-        rev(0, n-1)
+        k %= len(nums)
+        rev(0, len(nums)-1)
         rev(0, k-1)
-        rev(k, n-1)
+        rev(k, len(nums)-1)
+
+        return nums
